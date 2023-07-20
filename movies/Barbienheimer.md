@@ -4,6 +4,14 @@
 
 ### List of actors
 
+<<<<<<< HEAD
 * [Alex Mercer](/actors/Alex_Mercer.md)
   
 * [Bruce Willis](/actors/Bruce_Willis.md)
+=======
+## List of actors
+
+* Killian Murphy
+* Margot Robbie
+* Bruce Willis
+>>>>>>> 846320c051dc367f2d338bb41c2acf75299a098c

@@ -1,6 +1,6 @@
 # Barbienheimer: A Fusion of Brilliance
 
-"Barbienheimer" is a thrilling and imaginative sci-fi adventure where Barbie, a fashion icon and brilliant scientist, teams up with J. Robert Oppenheimer, the renowned physicist.
+![Barbienheimer](./../pictures/barbienheimer.jpg)"Barbienheimer" is a thrilling and imaginative sci-fi adventure where Barbie, a fashion icon and brilliant scientist, teams up with J. Robert Oppenheimer, the renowned physicist.
 
 ### List of actors
 

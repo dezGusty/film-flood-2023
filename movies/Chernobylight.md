@@ -5,3 +5,5 @@
 ### List of actors
 
 * [Akiviolet](./../pictures/Akiviolet.jpg)
+
+* [Isabella Hawthrone](../actors/Isabella_Hawthorne.md)

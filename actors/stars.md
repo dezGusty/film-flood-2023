@@ -2,3 +2,4 @@
 
 - [Burce_Willis](./../actors/Bruce_Willis.md)
 - [Isabella_Hawthorne](./../actors/Isabella_Hawthorne.md)
+- [Alex_Mercer](./../actors/Alex_Mercer.md)

@@ -3,4 +3,4 @@
 
 As you step inside "House of Carbs," you are immediately greeted by the inviting aroma of freshly baked bread and other carb-centric delights. The interior is thoughtfully decorated, featuring rustic wooden accents, vintage posters, and soft, warm lighting, creating an ambiance that feels like stepping into a beloved family kitchen.
 
-![carbs][./carbs.png]
+![Image](../../pictures/carbs.png)

@@ -4,6 +4,7 @@
 
 ## List of actors
 - Alex Mercer
+- Brad Split
 
 ![pictures](../pictures/clone.jpg)
 
